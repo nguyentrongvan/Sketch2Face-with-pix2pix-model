@@ -1,1 +1,3 @@
-# Sketch2Face-with-pix2pix-model
+# I. Data Preparing
+# II. Model Architecture
+# III. Result 
