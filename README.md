@@ -1,4 +1,3 @@
-![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/blob/main/png/slide-01.png)
 ![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/blob/main/png/slide-02.png)
 ![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/blob/main/png/slide-03.png)
 ![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/blob/main/png/slide-04.png)
