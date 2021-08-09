@@ -1,3 +1,1 @@
-# I. Data Preparing
-# II. Model Architecture
-# III. Result 
+![hustlin_erd](slide.pdf)
