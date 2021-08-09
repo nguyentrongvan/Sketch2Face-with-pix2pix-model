@@ -2,7 +2,6 @@ import cv2 as cv
 import numpy as np
 from numpy import random
 from scipy.io import loadmat
-from utils.render_app import get_visibility, get_uv_mask, get_depth_image
 
 
 def removePatches(image,position,patch_size,color):
