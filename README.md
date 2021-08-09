@@ -1,1 +1,22 @@
-![hustlin_erd](slide.pdf)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-01.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-02.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-03.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-04.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-05.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-06.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-07.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-08.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-09.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-10.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-11.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-12.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-13.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-14.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-15.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-16.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-17.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-18.png)
+![Image of Yaktocat](https://github.com/nguyentrongvan/Sketch2Face-with-pix2pix-model/png/slide-19.png)
+
+
+
